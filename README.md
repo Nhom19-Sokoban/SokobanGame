@@ -3,7 +3,7 @@
 Dự án Sokoban được phát triển bằng **Java**.  
 
 ## Tính năng
-- Thêm xóa sửa màn chơi
+- CRUD màn chơi
 - Giao diện sử dụng Java Swing
 - Hỗ trợ giải tự động bằng thuật toán A*
 
