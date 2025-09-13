@@ -1,0 +1,25 @@
+     HƯỚNG DẪN CHƠI SOKOBAN
+
+🧩 MỤC TIÊU:
+- Di chuyển tất cả các hộp (📦) vào đúng vị trí đích (⚪).
+- Khi tất cả hộp đã nằm trên vị trí đích, bạn sẽ hoàn thành màn chơi.
+
+🎮 CÁCH ĐIỀU KHIỂN:
+- Mũi tên ↑ : Di chuyển lên
+- Mũi tên ↓ : Di chuyển xuống
+- Mũi tên ← : Di chuyển trái
+- Mũi tên → : Di chuyển phải
+
+📌 LUẬT CHƠI:
+- Nhân vật chỉ có thể đẩy hộp, không thể kéo.
+- Mỗi lần chỉ được đẩy 1 hộp.
+- Không thể đẩy hộp nếu phía sau nó là tường hoặc hộp khác.
+- Cần suy nghĩ chiến thuật để không bị kẹt hộp.
+
+📍 KÝ HIỆU TRÊN BẢN ĐỒ:
+- 🧍 : Nhân vật chính
+- 🟫 : Tường
+- 📦 : Hộp
+- ⚪ : Đích đến
+- ✅ : Hộp đã đặt đúng vị trí đích
+
